@@ -41,8 +41,6 @@ The app displays the following student names:
 - Kotlin
 - Jetpack Compose
 
-## How to Run
-
 1. Open the project in Android Studio
 2. Run the app on an emulator or Android device
 3. Scroll through the student list
